@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Entrando...</title>
-</head>
-<body>
+<p style="color:#555; font-size:16px; margin-bottom:20px;">
+⚠️ Se o canal não abrir, toque nos <strong>3 pontinhos (⋮)</strong> no canto superior direito e selecione <strong>"Abrir no navegador"</strong>.
+</p>
 
-<script>
-window.location.href =
-"https://www.whatsapp.com/channel/0029Vb8LnsJ8fewjrEptDa3B";
-</script>
-
-<p>Entrando no canal...</p>
-
-</body>
-</html>
+<a class="botao" href="https://whatsapp.com/channel/0029Vb8LnsJ8fewjrEptDa3B">
+    Entrar no Canal VIP
+</a>
